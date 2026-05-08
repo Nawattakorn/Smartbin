@@ -246,7 +246,7 @@ print(f"mAP50: {metrics.box.map50}")
 โครงการนี้พัฒนาขึ้นเพื่อการศึกษาในรายวิชา Computer Vision
 
 ### ผู้พัฒนา
-- **นวัตกร** - [Nawattakorn](https://github.com/Nawattakorn)
+- **นวัตกรณ์** - [Nawattakorn](https://github.com/Nawattakorn)
 - **อัทธเมศร์** - [Autthamet](https://github.com/b3y0und)
   
 ---
